@@ -15,11 +15,11 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 ## 📊 GitHub Stats
 
-![Zerubbabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerubbabelTesfaye&show_icons=true&theme=dark)
+![Zerubbabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerubbabelT&show_icons=true&theme=dark)
 
 ## 🔝 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerubbabelTesfaye&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerubbabelT&layout=compact&theme=dark)
 
 ## 📫 How to reach me:
 
