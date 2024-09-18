@@ -35,14 +35,6 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 ---
 
-## 🔝 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerubbabelT&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 How to reach me:
 
 <p align="center">
@@ -51,11 +43,12 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 ---
 
-## 🔥 Fun Animations
+## ⚙️ Cool Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="fun gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750575-dc51d8e9-640f-48d2-b83e-8a4b31e6a5ff.gif" alt="Coding Animation" width="400" />
 </p>
+
 
 <!--
 **ZerubbabelT/ZerubbabelT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
