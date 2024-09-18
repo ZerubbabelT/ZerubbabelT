@@ -39,15 +39,11 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 <p align="center">
   <a href="https://t.me/Mariclaim" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://twitter.com/zerut16" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"/></a>
 </p>
 
 ---
 
-## ⚙️ Cool Animation
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750575-dc51d8e9-640f-48d2-b83e-8a4b31e6a5ff.gif" alt="Coding Animation" width="400" />
-</p>
 
 
 <!--
