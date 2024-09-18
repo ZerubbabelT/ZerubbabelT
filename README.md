@@ -1,31 +1,61 @@
 # Hi there, I'm Zerubbabel Tesfaye 👋
 
-I'm a passionate and dedicated full-stack developer with experience in building web applications using a variety of technologies. I specialize in front-end and back-end development, crafting seamless user experiences and robust server-side applications. I enjoy problem-solving and continuously learning new tools and technologies to improve my craft.
+I'm a passionate and dedicated full-stack developer with experience in building modern web applications. I focus on creating responsive, user-friendly, and efficient solutions for complex problems.
 
-## 🔧 Technologies & Tools
+---
 
-- **Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks**: Flask, Django
+## 🚀 About Me
 
-## 🛠 What I Do
+- 🔭 I’m currently working on improving my Flask and Django projects.
+- 🌱 I’m constantly learning new technologies and improving my skills.
+- 🤝 I’m open to collaborating on web development projects.
+- ⚡ Fun fact: I love exploring new programming languages and frameworks.
 
-- I build responsive and scalable web applications.
-- Focus on clean, maintainable code and best practices.
-- Passionate about back-end architecture and front-end user experience.
+---
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![Zerubbabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerubbabelT&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZerubbabelT&show_icons=true&theme=radical" alt="Zerubbabel's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZerubbabelT&theme=radical" alt="Zerubbabel's GitHub streak" />
+</p>
+
+---
 
 ## 🔝 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerubbabelT&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerubbabelT&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-## 📫 How to reach me:
+---
 
-- **Telegram**: [@Mariclaim](https://t.me/Mariclaim)
+## 📬 How to reach me:
 
+<p align="center">
+  <a href="https://t.me/Mariclaim" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
+---
+
+## 🔥 Fun Animations
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="fun gif" />
+</p>
 
 <!--
 **ZerubbabelT/ZerubbabelT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
