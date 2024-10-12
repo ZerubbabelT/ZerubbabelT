@@ -6,7 +6,6 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on improving my Flask and Django projects.
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 🤝 I’m open to collaborating on web development projects.
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
@@ -14,6 +13,7 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 ---
 
 ## 💻 Technologies & Tools
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,flask,django,jquery,sqlite,firebase,git)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,7 +39,7 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 <p align="center">
   <a href="https://t.me/Mariclaim" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://twitter.com/zerut16" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"/></a>
+  <a href="https://x.com/zerut16" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"/></a>
 </p>
 
 ---
