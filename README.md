@@ -8,7 +8,7 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 🤝 I’m open to collaborating on web development projects.
-- ⚡ Fun fact: I love exploring new programming languages and frameworks.
+- ⚡ Fun fact: I love Maths and Physics.
 
 ---
 
