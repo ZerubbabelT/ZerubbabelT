@@ -22,7 +22,7 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZerubbabelT&show_icons=true&theme=radical" alt="Zerubbabel's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZerubbabelT&theme=radical" alt="Zerubbabel's GitHub streak" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZerubbabelT&theme=radical" alt="Zerubbabel's GitHub streak" /> </p>
 
 
 ## 📬 How to reach me:
