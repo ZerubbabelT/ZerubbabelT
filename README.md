@@ -14,7 +14,7 @@ I'm a passionate and dedicated full-stack developer with experience in building 
 
 ## 💻 Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,flask,django,jquery,sqlite,c,firebase,git,vscode,bash,arduino)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,flask,django,jquery,sqlite,c,firebase,git,nodejs,bash,arduino)
 <p align="center">
 
 </p>
