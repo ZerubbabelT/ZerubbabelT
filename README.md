@@ -16,7 +16,7 @@
 ## 💼 My Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,bootstrap,jquery,sqlite,c,firebase,nodejs,git,bash,arduino" alt="Technologies I Use">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,tailwindcss,react,bootstrap,sqlite,c,firebase,nodejs,git,bash" alt="Technologies I Use">
 </p>  
 
 
