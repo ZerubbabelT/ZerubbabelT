@@ -4,14 +4,6 @@
 
 ---
 
-## 🌟 About Me  
-
-- 🔭 I’m constantly learning new technologies and improving my skills.
-- 🌱 I’m open to collaborating on web development projects.
-- 🎯 Always seeking opportunities to **collaborate** on impactful projects.  
-- 🧠 Fun fact: I’m a proud Math and Physics nerd—problem-solving is my superpower! 
-
----
 
 ## 💼 My Tech Stack  
 
