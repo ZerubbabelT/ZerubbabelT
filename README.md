@@ -12,19 +12,11 @@
 </p>  
 
 
-## 📈 GitHub Stats  
 
+
+## Let’s Connect  
 <p align="center">
-  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZerubbabelT&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-
-
-## 📬 Let’s Connect  
  <img src="https://komarev.com/ghpvc/?username=ZerubbabelT&style=flat-square&color=red" alt="Profile Views">
-<p align="center">
   <a href="https://t.me/Mariclaim" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
