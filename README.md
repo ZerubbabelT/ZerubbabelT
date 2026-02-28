@@ -1,29 +1,33 @@
-# Hi there, I'm Zerubbabel Tesfaye 👋  
 
-✨ A **passionate full-stack developer** with a knack for crafting modern, user-centric web solutions. Driven by curiosity, love for coding, and a desire to solve real-world problems, I strive for excellence in every project.  
+Full-stack developer focused on building developer tools and practical systems.  
+I care about clean architecture, performance, and solving real problems.
 
 ---
 
+## 🧰 Tech
 
-## 💼 My Tech Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,go,python,react,fastapi,django,postgres,sqlite,docker,linux,git" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,tailwindcss,react,bootstrap,sqlite,c,firebase,nodejs,git,bash" alt="Technologies I Use">
-</p>  
+---
 
+## 🎯 Focus
 
+- Developer tooling  
+- Authentication systems  
+- Data-heavy applications  
+- Clean, intentional engineering  
 
+---
 
-## Let’s Connect  
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=ZerubbabelT&style=flat-square&color=red" alt="Profile Views">
-  <a href="https://t.me/Mariclaim" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+## 🌐 Connect
+
+<p>
   <a href="https://x.com/zerut16" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/zeru_90708" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://www.linkedin.com/in/zerubbabel-tesfaye-ab6486308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
