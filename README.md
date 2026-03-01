@@ -7,7 +7,7 @@ I care about clean architecture, performance, and solving real problems.
 ## 🧰 Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,go,python,react,fastapi,django,postgres,sqlite,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,go,python,react,fastapi,django,bun,postgres,sqlite,docker,linux" />
 </p>
 
 ---
