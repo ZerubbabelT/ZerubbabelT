@@ -4,24 +4,11 @@ I care about clean architecture, performance, and solving real problems.
 
 ---
 
-## 🧰 Tech
-
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,go,python,react,fastapi,django,bun,postgres,sqlite,docker,linux" />
 </p>
 
 ---
-
-## 🎯 Focus
-
-- Developer tooling  
-- Authentication systems  
-- Data-heavy applications  
-- Clean, intentional engineering  
-
----
-
-## 🌐 Connect
 
 <p>
   <a href="https://x.com/zerut16" target="_blank">
